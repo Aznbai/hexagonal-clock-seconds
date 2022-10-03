@@ -1,10 +1,9 @@
 # hexagonal-clock-seconds
-Diy neopixel clock with indication of seconds. Based on 13 segment hexagonal display modules
-
 ![13-segment-clock](13-segment-clock.gif) 
 
-DIY  13 segment hexagonal display clock 
-- 86 WS2812B pixels
+DIY  13 segment hexagonal display clock with indication of seconds. 
+
+- 86 WS2812B ( neopixel ) pixels
 - DS1307 RTC 
 - Manual brightness control
 - Dot animation
